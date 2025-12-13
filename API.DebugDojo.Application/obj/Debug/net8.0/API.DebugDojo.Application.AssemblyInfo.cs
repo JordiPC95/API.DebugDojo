@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API.DebugDojo.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+739b51b560f227efcf2efc7d4c690d7fdbc0629a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d8c09ddfa41655fbaed0ad0e7d257de5274d766")]
 [assembly: System.Reflection.AssemblyProductAttribute("API.DebugDojo.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API.DebugDojo.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

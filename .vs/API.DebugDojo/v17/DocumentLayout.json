@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\JORDI\\OneDrive\\Escriptori\\Github\\API.DebugDojo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FA5170-3269-4C84-BCC4-595DF4582F91}|API.DebugDojo.Api\\API.DebugDojo.Api.csproj|c:\\users\\jordi\\onedrive\\escriptori\\github\\api.debugdojo\\api.debugdojo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4FA5170-3269-4C84-BCC4-595DF4582F91}|API.DebugDojo.Api\\API.DebugDojo.Api.csproj|solutionrelative:api.debugdojo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JORDI\\OneDrive\\Escriptori\\Github\\API.DebugDojo\\API.DebugDojo.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "API.DebugDojo.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\JORDI\\OneDrive\\Escriptori\\Github\\API.DebugDojo\\API.DebugDojo.Api\\appsettings.json",
+              "RelativeToolTip": "API.DebugDojo.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-13T23:33:46.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
