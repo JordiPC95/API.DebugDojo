@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o11DC5fDC/4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JORDI\\OneDrive\\Escriptori\\Github\\API.DebugDojo\\API.DebugDojo.Application\\API.DebugDojo.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JORDI\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
