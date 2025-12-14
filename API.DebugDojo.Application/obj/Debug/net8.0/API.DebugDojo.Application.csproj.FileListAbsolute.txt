@@ -1,0 +1,15 @@
+C:\Users\JORDI\OneDrive\Escriptori\Github\API.DebugDojo\API.DebugDojo.Application\bin\Debug\net8.0\API.DebugDojo.Application.deps.json
+C:\Users\JORDI\OneDrive\Escriptori\Github\API.DebugDojo\API.DebugDojo.Application\bin\Debug\net8.0\API.DebugDojo.Application.runtimeconfig.json
+C:\Users\JORDI\OneDrive\Escriptori\Github\API.DebugDojo\API.DebugDojo.Application\bin\Debug\net8.0\API.DebugDojo.Application.dll
+C:\Users\JORDI\OneDrive\Escriptori\Github\API.DebugDojo\API.DebugDojo.Application\bin\Debug\net8.0\API.DebugDojo.Application.pdb
+C:\Users\JORDI\OneDrive\Escriptori\Github\API.DebugDojo\API.DebugDojo.Application\obj\Debug\net8.0\API.DebugDojo.Application.csproj.AssemblyReference.cache
+C:\Users\JORDI\OneDrive\Escriptori\Github\API.DebugDojo\API.DebugDojo.Application\obj\Debug\net8.0\API.DebugDojo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JORDI\OneDrive\Escriptori\Github\API.DebugDojo\API.DebugDojo.Application\obj\Debug\net8.0\API.DebugDojo.Application.AssemblyInfoInputs.cache
+C:\Users\JORDI\OneDrive\Escriptori\Github\API.DebugDojo\API.DebugDojo.Application\obj\Debug\net8.0\API.DebugDojo.Application.AssemblyInfo.cs
+C:\Users\JORDI\OneDrive\Escriptori\Github\API.DebugDojo\API.DebugDojo.Application\obj\Debug\net8.0\API.DebugDojo.Application.csproj.CoreCompileInputs.cache
+C:\Users\JORDI\OneDrive\Escriptori\Github\API.DebugDojo\API.DebugDojo.Application\obj\Debug\net8.0\API.DebugDojo.Application.sourcelink.json
+C:\Users\JORDI\OneDrive\Escriptori\Github\API.DebugDojo\API.DebugDojo.Application\obj\Debug\net8.0\API.DebugDojo.Application.dll
+C:\Users\JORDI\OneDrive\Escriptori\Github\API.DebugDojo\API.DebugDojo.Application\obj\Debug\net8.0\refint\API.DebugDojo.Application.dll
+C:\Users\JORDI\OneDrive\Escriptori\Github\API.DebugDojo\API.DebugDojo.Application\obj\Debug\net8.0\API.DebugDojo.Application.pdb
+C:\Users\JORDI\OneDrive\Escriptori\Github\API.DebugDojo\API.DebugDojo.Application\obj\Debug\net8.0\API.DebugDojo.Application.genruntimeconfig.cache
+C:\Users\JORDI\OneDrive\Escriptori\Github\API.DebugDojo\API.DebugDojo.Application\obj\Debug\net8.0\ref\API.DebugDojo.Application.dll

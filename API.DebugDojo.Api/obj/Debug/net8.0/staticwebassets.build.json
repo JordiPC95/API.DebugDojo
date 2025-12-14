@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7bRIKp1m7i4yB70srEXnCznuoj/f1BzhRZQHZyXKjok=",
+  "Source": "API.DebugDojo.Api",
+  "BasePath": "_content/API.DebugDojo.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

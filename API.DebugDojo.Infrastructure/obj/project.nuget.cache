@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "z207Q8/sDh4=",
+  "dgSpecHash": "CqOfBnLYPpI=",
   "success": true,
   "projectFilePath": "C:\\Users\\JORDI\\OneDrive\\Escriptori\\Github\\API.DebugDojo\\API.DebugDojo.Infrastructure\\API.DebugDojo.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -21,8 +21,8 @@
     "C:\\Users\\JORDI\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.19\\microsoft.entityframeworkcore.analyzers.8.0.19.nupkg.sha512",
     "C:\\Users\\JORDI\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.19\\microsoft.entityframeworkcore.design.8.0.19.nupkg.sha512",
     "C:\\Users\\JORDI\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.19\\microsoft.entityframeworkcore.relational.8.0.19.nupkg.sha512",
-    "C:\\Users\\JORDI\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.12\\microsoft.entityframeworkcore.sqlserver.8.0.12.nupkg.sha512",
-    "C:\\Users\\JORDI\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\10.0.1\\microsoft.entityframeworkcore.tools.10.0.1.nupkg.sha512",
+    "C:\\Users\\JORDI\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.19\\microsoft.entityframeworkcore.sqlserver.8.0.19.nupkg.sha512",
+    "C:\\Users\\JORDI\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.19\\microsoft.entityframeworkcore.tools.8.0.19.nupkg.sha512",
     "C:\\Users\\JORDI\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\JORDI\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.1\\microsoft.extensions.caching.memory.8.0.1.nupkg.sha512",
     "C:\\Users\\JORDI\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
@@ -56,7 +56,7 @@
     "C:\\Users\\JORDI\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
     "C:\\Users\\JORDI\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
     "C:\\Users\\JORDI\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
-    "C:\\Users\\JORDI\\.nuget\\packages\\system.formats.asn1\\8.0.1\\system.formats.asn1.8.0.1.nupkg.sha512",
+    "C:\\Users\\JORDI\\.nuget\\packages\\system.formats.asn1\\8.0.2\\system.formats.asn1.8.0.2.nupkg.sha512",
     "C:\\Users\\JORDI\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.15.0\\system.identitymodel.tokens.jwt.8.15.0.nupkg.sha512",
     "C:\\Users\\JORDI\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
     "C:\\Users\\JORDI\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
