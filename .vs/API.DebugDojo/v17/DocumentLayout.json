@@ -1,12 +1,118 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\JORDI\\OneDrive\\Escriptori\\Github\\API.DebugDojo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3107E4C-54FE-4042-8837-447F8F7ADF94}|API.DebugDojo.Infrastructure\\API.DebugDojo.Infrastructure.csproj|c:\\users\\jordi\\onedrive\\escriptori\\github\\api.debugdojo\\api.debugdojo.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3107E4C-54FE-4042-8837-447F8F7ADF94}|API.DebugDojo.Infrastructure\\API.DebugDojo.Infrastructure.csproj|solutionrelative:api.debugdojo.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FA5170-3269-4C84-BCC4-595DF4582F91}|API.DebugDojo.Api\\API.DebugDojo.Api.csproj|c:\\users\\jordi\\onedrive\\escriptori\\github\\api.debugdojo\\api.debugdojo.api\\controllers\\mecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FA5170-3269-4C84-BCC4-595DF4582F91}|API.DebugDojo.Api\\API.DebugDojo.Api.csproj|solutionrelative:api.debugdojo.api\\controllers\\mecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FA5170-3269-4C84-BCC4-595DF4582F91}|API.DebugDojo.Api\\API.DebugDojo.Api.csproj|c:\\users\\jordi\\onedrive\\escriptori\\github\\api.debugdojo\\api.debugdojo.api\\controllers\\workitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FA5170-3269-4C84-BCC4-595DF4582F91}|API.DebugDojo.Api\\API.DebugDojo.Api.csproj|solutionrelative:api.debugdojo.api\\controllers\\workitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5CE863-37FB-4977-8EA7-1B3794E2C483}|API.DebugDojo.Application\\API.DebugDojo.Application.csproj|c:\\users\\jordi\\onedrive\\escriptori\\github\\api.debugdojo\\api.debugdojo.application\\contracts\\workitemcontracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5CE863-37FB-4977-8EA7-1B3794E2C483}|API.DebugDojo.Application\\API.DebugDojo.Application.csproj|solutionrelative:api.debugdojo.application\\contracts\\workitemcontracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5CE863-37FB-4977-8EA7-1B3794E2C483}|API.DebugDojo.Application\\API.DebugDojo.Application.csproj|c:\\users\\jordi\\onedrive\\escriptori\\github\\api.debugdojo\\api.debugdojo.application\\contracts\\authcontracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5CE863-37FB-4977-8EA7-1B3794E2C483}|API.DebugDojo.Application\\API.DebugDojo.Application.csproj|solutionrelative:api.debugdojo.application\\contracts\\authcontracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FA5170-3269-4C84-BCC4-595DF4582F91}|API.DebugDojo.Api\\API.DebugDojo.Api.csproj|c:\\users\\jordi\\onedrive\\escriptori\\github\\api.debugdojo\\api.debugdojo.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FA5170-3269-4C84-BCC4-595DF4582F91}|API.DebugDojo.Api\\API.DebugDojo.Api.csproj|solutionrelative:api.debugdojo.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\JORDI\\OneDrive\\Escriptori\\Github\\API.DebugDojo\\API.DebugDojo.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "API.DebugDojo.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\JORDI\\OneDrive\\Escriptori\\Github\\API.DebugDojo\\API.DebugDojo.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "API.DebugDojo.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwCcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T20:52:58.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeController.cs",
+              "DocumentMoniker": "C:\\Users\\JORDI\\OneDrive\\Escriptori\\Github\\API.DebugDojo\\API.DebugDojo.Api\\Controllers\\MeController.cs",
+              "RelativeDocumentMoniker": "API.DebugDojo.Api\\Controllers\\MeController.cs",
+              "ToolTip": "C:\\Users\\JORDI\\OneDrive\\Escriptori\\Github\\API.DebugDojo\\API.DebugDojo.Api\\Controllers\\MeController.cs",
+              "RelativeToolTip": "API.DebugDojo.Api\\Controllers\\MeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T22:04:53.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\JORDI\\OneDrive\\Escriptori\\Github\\API.DebugDojo\\API.DebugDojo.Api\\Controllers\\WorkItemsController.cs",
+              "RelativeDocumentMoniker": "API.DebugDojo.Api\\Controllers\\WorkItemsController.cs",
+              "ToolTip": "C:\\Users\\JORDI\\OneDrive\\Escriptori\\Github\\API.DebugDojo\\API.DebugDojo.Api\\Controllers\\WorkItemsController.cs",
+              "RelativeToolTip": "API.DebugDojo.Api\\Controllers\\WorkItemsController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T22:04:40.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkItemContracts.cs",
+              "DocumentMoniker": "C:\\Users\\JORDI\\OneDrive\\Escriptori\\Github\\API.DebugDojo\\API.DebugDojo.Application\\Contracts\\WorkItemContracts.cs",
+              "RelativeDocumentMoniker": "API.DebugDojo.Application\\Contracts\\WorkItemContracts.cs",
+              "ToolTip": "C:\\Users\\JORDI\\OneDrive\\Escriptori\\Github\\API.DebugDojo\\API.DebugDojo.Application\\Contracts\\WorkItemContracts.cs",
+              "RelativeToolTip": "API.DebugDojo.Application\\Contracts\\WorkItemContracts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T19:47:02.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthContracts.cs",
+              "DocumentMoniker": "C:\\Users\\JORDI\\OneDrive\\Escriptori\\Github\\API.DebugDojo\\API.DebugDojo.Application\\Contracts\\AuthContracts.cs",
+              "RelativeDocumentMoniker": "API.DebugDojo.Application\\Contracts\\AuthContracts.cs",
+              "ToolTip": "C:\\Users\\JORDI\\OneDrive\\Escriptori\\Github\\API.DebugDojo\\API.DebugDojo.Application\\Contracts\\AuthContracts.cs",
+              "RelativeToolTip": "API.DebugDojo.Application\\Contracts\\AuthContracts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T19:46:53.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\JORDI\\OneDrive\\Escriptori\\Github\\API.DebugDojo\\API.DebugDojo.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API.DebugDojo.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\JORDI\\OneDrive\\Escriptori\\Github\\API.DebugDojo\\API.DebugDojo.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API.DebugDojo.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T19:33:53.774Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
