@@ -37,7 +37,7 @@ public sealed class AppDbContext : DbContext
              .HasForeignKey(x => x.OwnerUserId)
              .OnDelete(DeleteBehavior.Cascade);
 
-            b.HasQueryFilter(x => !x.IsDeleted); // Soft deletee globall
+            b.HasQueryFilter(x => !x.IsDeleted); // Cambios a full
         });
     }
 }
